@@ -34,4 +34,29 @@ English
 
 [SUBJECT] + [ACTION] + [SETTING] + [STYLE] + [LIGHTING/COLOR] + [COMPOSITION] + [DETAIL/QUALITY] + [SIZE] + [INTENDED USE] + [NEGATIVE PROMPT]
 
-Create-Virsual
+PROMPT TEMPLATE
+[SUBJECT]:
+[ACTION]:
+[SETTING]:
+[STYLE]:
+[LIGHTING / COLOR]:
+[COMPOSITION]:
+[DETAIL / QUALITY]:
+[ASPECT RATIO]:
+[INTENDED USE]:
+[NEGATIVE PROMPT]:
+
+
+EXAMPLE COMPLETED PROMPT
+[SUBJECT]: a cyberpunk woman
+[ACTION]: walking down the street in the rain
+[SETTING]: neon-lit Tokyo streets
+[STYLE]: anime, cinematic
+[LIGHTING / COLOR]: blue and purple neon lights, night atmosphere
+[COMPOSITION]: wide-angle, low-angle shot
+[DETAIL / QUALITY]: ultra-detailed, 8k, sharp clarity
+[ASPECT RATIO]: 16:9
+[INTENDED USE]: concept art
+[NEGATIVE PROMPT]: blurry, low quality, extra fingers, distorted face, watermark, text
+
+
